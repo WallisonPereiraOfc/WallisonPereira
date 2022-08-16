@@ -1,7 +1,7 @@
 ## Oi eu sou Wallison , Bem vindo ao meu Perfil !
 <div align="center">
   <a href="https://github.com/WallisonPereiraOfc">
-  <img  src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif"/>
+  <img src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif">
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallisonPereiraOfc&layout=compact&langs_count=7&theme=dark"/>
 </div>
