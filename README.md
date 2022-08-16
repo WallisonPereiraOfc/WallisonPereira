@@ -2,8 +2,9 @@
 <div align="center">
   <a href="https://github.com/WallisonPereiraOfc">
   <img height ="180em" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif">
-  ![HeavyLiquidAnnelid-size_restricted](https://user-images.githubusercontent.com/110045968/184757492-5d278c2c-360b-42a6-86f0-43bd04c178c7.gif)
-   
+  
+   ![HeavyLiquidAnnelid-size_restricted](https://user-images.githubusercontent.com/110045968/184757645-050e6fbe-8a92-4c33-8411-55a318780512.gif)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallisonPereiraOfc&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
